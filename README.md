@@ -7,7 +7,7 @@ For the autoML method, please see the folder `autoML-code`.
 
 For the `ML-code` run the code via anaconda using the `xxxx.yaml` file. 
 
-For the `autoML-code`, 
+For the `autoML-code`. 
 - Clone the repository. <br>
 `git clone https://github.com/facundof2016/Sah_Ovarian-cancer_2023` <br>
 `cd Sah_Ovarian-cancer_2023`
