@@ -12,7 +12,7 @@ For the `autoML-code`.
 `git clone https://github.com/facundof2016/Sah_Ovarian-cancer_2023` <br>
 `cd Sah_Ovarian-cancer_2023`
 - Build the docker. 
-`docker build -t [IMAGE_NAME].`
+`docker build -t Dockerfile.`
 - Run the docker container. 
 - Run jupyter notebook. 
 
