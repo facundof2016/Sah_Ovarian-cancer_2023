@@ -6,8 +6,7 @@ For the autoML method, please see the folder `autoML-code`.
 ## Instructions for running the code.
 
 For the `ML-code`:<br>
-- Clone the repository
-- Run the code via anaconda using the `xxxx.yaml` file. 
+- To replicate the code, use the version of libraries as indicated in the paper and in the jupyter notebooks. 
 
 For the `autoML-code`: 
 - Clone the repository. <br>
