@@ -14,4 +14,4 @@ For the `autoML-code`:
 `docker build -t Dockerfile.`
 - Run the docker container. 
 - Run jupyter notebook. 
-
+Note that the autoML model is saved as `askl_17_OC_3600.pkl`, you will need to unzip. 
